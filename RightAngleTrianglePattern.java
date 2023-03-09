@@ -1,3 +1,5 @@
+//write a java Program in Java to display the pattern like right angle triangle with a number.
+
 import java.util.Scanner;
 
 public class RightAngleTrianglePattern {
@@ -14,3 +16,10 @@ public class RightAngleTrianglePattern {
         }
     }
 }
+//output:
+//Enter the number of rows: 5
+//1
+//12
+//123
+//1234
+//12345
