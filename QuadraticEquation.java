@@ -1,3 +1,5 @@
+//write a java program Program to solve quadratic equations (use if, else if and else).
+
 import java.util.Scanner;
 
 public class QuadraticEquation {
@@ -29,3 +31,8 @@ public class QuadraticEquation {
         }
     }
 }
+//output:
+//Enter coefficient a: 2
+//Enter coefficient b: -4
+//Enter coefficient c: -2
+//The roots are 2.414213562373095 and -0.41421356237309515
