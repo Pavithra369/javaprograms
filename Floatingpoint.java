@@ -1,3 +1,5 @@
+//write a java program that reads in two floating-point numbers and tests whether they are the same up to three decimal places.
+
 import java.util.Scanner;
 
 public class Floatingpoint {
@@ -22,3 +24,7 @@ public class Floatingpoint {
         }
     }
 }
+//output:
+//Enter the first number: 3.333
+//Enter the second number: 0.12
+//The two numbers are not equal up to three decimal places.
