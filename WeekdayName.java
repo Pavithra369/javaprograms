@@ -1,3 +1,5 @@
+//write a java  Program that keeps a number from the user and generates an integer between 1 and 7 and displays the name of the weekday.
+
 import java.util.Scanner;
 
 public class WeekdayName {
@@ -39,3 +41,6 @@ public class WeekdayName {
         System.out.println("The weekday is " + weekday);
     }
 }
+//output:
+//Enter a number between 1 and 7: 3
+//The weekday is Tuesday
