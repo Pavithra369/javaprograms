@@ -1,3 +1,4 @@
+// Program to check wheter a given number is poitive or negative
 import java.util.Scanner;
 
 public class PositiveNegative {
@@ -17,3 +18,6 @@ public class PositiveNegative {
         input.close();
     }
 }
+// Output:
+//Enter a number: -9
+//The number is negative.
